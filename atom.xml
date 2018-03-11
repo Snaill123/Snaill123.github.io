@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://snaill123.com/"/>
-  <updated>2018-03-01T15:13:57.345Z</updated>
+  <updated>2018-03-11T09:14:47.950Z</updated>
   <id>http://snaill123.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018-03-11</title>
+    <link href="http://snaill123.com/2018/03/11/2018-03-11/"/>
+    <id>http://snaill123.com/2018/03/11/2018-03-11/</id>
+    <published>2018-03-11T09:12:53.000Z</published>
+    <updated>2018-03-11T09:14:47.950Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="日志" scheme="http://snaill123.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="日常记录" scheme="http://snaill123.com/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>存在钥匙与门的一道迷宫问题</title>
